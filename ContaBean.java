@@ -7,7 +7,7 @@ package utilitarios;
 
 /**
  *
- * @author Otavio Souza
+ * @author SamiSpy
  */
 public class ContaBean {
     
