@@ -13,5 +13,6 @@ PRIMARY KEY(id)
 );
 
 INSERT INTO tbl_banco (agencia, senha, saldo) VALUES ('samispy','1234', 3000.58);
+INSERT INTO tbl_banco (agencia, senha, saldo) VALUES ('yoda','5050', 1999.87);
 
 SELECT * FROM tbl_banco;
