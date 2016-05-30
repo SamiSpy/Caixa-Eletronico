@@ -10,7 +10,7 @@ import utilitarios.Program;
 
 /**
  *
- * @author Otavio Souza
+ * @author Otavio Souza (SamiSpy)
  */
 public class CaixaEletronicoDB {   
     /**
