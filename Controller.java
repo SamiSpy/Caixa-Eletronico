@@ -11,7 +11,7 @@ import utilitarios.ContaBean;
 
 /**
  *
- * @author Otavio Souza
+ * @author Otavio Souza (SamiSpy)
  */
 public class Controller {
     
