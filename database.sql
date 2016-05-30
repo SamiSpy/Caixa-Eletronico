@@ -1,3 +1,5 @@
+/*author: Otavio Souza (SamiSpy)*/
+
 CREATE DATABASE db_caixaeletronico;
 
 USE db_caixaeletronico;
