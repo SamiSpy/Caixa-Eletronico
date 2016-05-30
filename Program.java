@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Otavio Souza
+ * @author Otavio Souza (SamiSpy)
  */
 public class Program {
     
